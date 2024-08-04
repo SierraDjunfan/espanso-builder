@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/espanso-builder/static/css/main.c1a35c37.css",
+    "main.js": "/espanso-builder/static/js/main.e2061f19.js",
+    "index.html": "/espanso-builder/index.html",
+    "main.c1a35c37.css.map": "/espanso-builder/static/css/main.c1a35c37.css.map",
+    "main.e2061f19.js.map": "/espanso-builder/static/js/main.e2061f19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a35c37.css",
+    "static/js/main.e2061f19.js"
+  ]
+}
