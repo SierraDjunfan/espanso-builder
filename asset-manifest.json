@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/espanso-builder/static/css/main.350f733c.css",
-    "main.js": "/espanso-builder/static/js/main.4cc99189.js",
+    "main.css": "/espanso-builder/static/css/main.382c569b.css",
+    "main.js": "/espanso-builder/static/js/main.991309ba.js",
     "index.html": "/espanso-builder/index.html",
-    "main.350f733c.css.map": "/espanso-builder/static/css/main.350f733c.css.map",
-    "main.4cc99189.js.map": "/espanso-builder/static/js/main.4cc99189.js.map"
+    "main.382c569b.css.map": "/espanso-builder/static/css/main.382c569b.css.map",
+    "main.991309ba.js.map": "/espanso-builder/static/js/main.991309ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.350f733c.css",
-    "static/js/main.4cc99189.js"
+    "static/css/main.382c569b.css",
+    "static/js/main.991309ba.js"
   ]
 }
